@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37912
     wikipedia: http://en.wikipedia.org/wiki/Mechthild_of_Magdeburg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35811#Matelda-and-the-Cloister-of-HellfdeExtracts-from-the-Book-of-Matilda-of-Magdeburg
 gutenberg_issued: '2011-04-09'
 gutenberg_type: Text
 identifiers:
